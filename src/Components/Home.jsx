@@ -15,7 +15,7 @@ function Home() {
       <div className='mt-5'>
         <Category/>
         <p className='text-red-600'>hello</p>
-        <p className='text-green-500'>kya hai</p>
+        <p className='text-green-500'>kya hai be</p>
       </div>
     </div>
   )
