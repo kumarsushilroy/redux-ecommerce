@@ -14,7 +14,7 @@ function Home() {
     <div className='w-full'>
       <div className='mt-5'>
         <Category/>
-        
+        <p className='text-red-600'>hello</p>
       </div>
     </div>
   )
